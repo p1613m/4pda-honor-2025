@@ -1,0 +1,5 @@
+<div class="promo-honor-sidebar-ad">
+    <span class="promo-honor-sidebar-ad-text">Реклама</span>
+    <span class="promo-honor-sidebar-ad-url">Honor</span>
+</div>
+<img src="images/sidebar-1.jpg" class="promo-honor-sidebar-full" alt="" width="385" height="463">

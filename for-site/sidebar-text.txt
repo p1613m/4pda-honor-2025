@@ -1,0 +1,14 @@
+<div class="promo-honor-sidebar-with-info">
+    <div class="promo-honor-sidebar-ad">
+        <span class="promo-honor-sidebar-ad-text">Реклама</span>
+        <span class="promo-honor-sidebar-ad-url">Honor</span>
+    </div>
+    <div class="promo-honor-sidebar-title">HONOR x9b</div>
+    <img src="images/sidebar-2.jpg" alt="" class="promo-honor-sidebar-image" width="335" height="287">
+    <ul class="promo-honor-sidebar-description">
+        <li>Флагманский процессор</li>
+        <li>Тройная камера</li>
+        <li>12 гб оперативной памяти</li>
+    </ul>
+    <a href="#" class="promo-honor-sidebar-button">Подробнее</a>
+</div>
